@@ -5,10 +5,9 @@ Loss functions for computer vision
 <ul>
   <li>Dice loss </li>
   <li>IoU loss </li>
-  <li>Lovasz loss</li> 
   <li>Tversky loss </li>
   <li>Focal Tversky loss </li>
-  <li>Generalized Dice loss </li>
+  <li>Generalised Dice loss </li>
   <li>Noise-robust Dice loss </li>
   <li>Focal Dice loss </li>
 </ul>
