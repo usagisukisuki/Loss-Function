@@ -1,6 +1,6 @@
 # Various Loss Function
 Loss functions for computer vision
-
+[arxiv](https://arxiv.org/abs/1606.04797/)
 ## Semantic Segmentation
 <ul>
   <li>Dice loss [arxiv](https://arxiv.org/abs/1606.04797/)</li>
