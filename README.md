@@ -10,6 +10,8 @@
 * Noise-robust Dice loss [paper](https://ieeexplore.ieee.org/document/9109297)
 * Focal Dice loss [paper](https://www.sciencedirect.com/science/article/pii/S1361841521003042)
 * clDice loss [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Shit_clDice_-_A_Novel_Topology-Preserving_Loss_Function_for_Tubular_Structure_CVPR_2021_paper.pdf)
+* WS Dice loss[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9180275)
+* Dice loss + Focal loss[paper](https://arxiv.org/pdf/1808.05238.pdf) 
 
 
 
