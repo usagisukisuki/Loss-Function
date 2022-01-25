@@ -11,8 +11,6 @@ Loss functions for computer vision
   <li>Generalized Dice loss </li>
   <li>Noise-robust Dice loss </li>
   <li>Focal Dice loss </li>
-  <li>WS Dice loss </li>
-  <li>betaFL-log </li> 
 </ul>
 
 
@@ -26,5 +24,5 @@ Loss functions for computer vision
   <li>Equalization v2 loss </li>
   <li>LDAM loss </li>
   <li>Logit adjust loss </li>
-  <li>V loss </li>
+  <li>VA loss </li>
 </ul>
