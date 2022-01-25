@@ -15,12 +15,5 @@
 
 
 ## Imbalance Classification
-* Cross entropy loss with class weight using effective number
-* Focal loss 
-* CDB-CE loss 
-* Equalization loss
-* Equalization v2 loss
-* LDAM loss 
-* Logit adjust loss 
-* VA loss 
+coming soon...
 
