@@ -1,5 +1,4 @@
 # Various Loss Function
-### Loss functions for computer vision
 
 ## Semantic Segmentation
 * Dice loss [paper](https://arxiv.org/abs/1606.04797/)
