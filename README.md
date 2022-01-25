@@ -3,7 +3,7 @@ Loss functions for computer vision
 
 ## Semantic Segmentation
 <ul>
-  <li>Dice loss </li>[arxiv](https://arxiv.org/abs/1606.04797)
+  <li>Dice loss [arxiv](https://arxiv.org/abs/1606.04797/)</li>
   <li>IoU loss </li>[pdf](https://www.cs.umanitoba.ca/~ywang/papers/isvc16.pdf)
   <li>Tversky loss </li>[arxiv](https://arxiv.org/abs/1706.05721)
   <li>Focal Tversky loss </li>[pdf](https://arxiv.org/pdf/1810.07842.pdf)
