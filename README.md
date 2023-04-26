@@ -16,5 +16,11 @@
 
 
 ## Imbalance Classification
-coming soon...
+* Class-Balanced Loss (Effective number) [paper](https://arxiv.org/pdf/1901.05555.pdf)
+* Focal loss [paper](https://arxiv.org/pdf/1708.02002.pdf)
+* Label-Distribution-Aware Margin (LDAM) Loss [paper](https://arxiv.org/pdf/1906.07413.pdf)
+* Class-Wise Difficulty-Balanced Loss [paper](https://arxiv.org/pdf/2010.01824.pdf)
+* CDT Loss [paper](https://arxiv.org/pdf/2001.01385.pdf)
+* Logit Adjust (LA) Loss [paper](https://arxiv.org/pdf/2007.07314.pdf)
+* Vector-Scaling (VS) loss [paper](https://arxiv.org/pdf/2103.01550.pdf)
 
